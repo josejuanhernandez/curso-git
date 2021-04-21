@@ -8,4 +8,11 @@ public class Customer {
 	public String getName() {
 		return name;
 	}
+
+	@Override
+	public String toString() {
+		return "Customer{" +
+				"name='" + name + '\'' +
+				'}';
+	}
 }
