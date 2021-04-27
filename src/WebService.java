@@ -5,7 +5,7 @@ public class WebService {
 //	private static final String password = "12345*";
 	private static final String password = "12345"
 //	private static final String ip = "10.146.2.236";
-	private static final String ip = "10.146.2.238";
+//	private static final String ip = "10.146.2.238";
 
 	public WebService(int port) {
 		this.port = port;
